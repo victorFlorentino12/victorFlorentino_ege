@@ -5,7 +5,7 @@ function printInf(){
     var run = true
    try{
         while(run == true){
-            if(number>1998 && number<2023){
+            if(number>1922 && number<2021){
                 document.write(number + "<br/>")
                 document.write(txtname)
                 run = false
